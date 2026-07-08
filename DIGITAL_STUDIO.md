@@ -42,7 +42,7 @@ One agent sits outside the department directory below and outside the governance
 
 | Department | Mission | Folders owned | Registries maintained | Reports to |
 |---|---|---|---|---|
-| Office of the Founder | Holds Charter authority, approves new departments, breaks ties | 00-foundations, GOVERNANCE.md | Decision Log, Department Registry, Audit Log | — |
+| Office of the Founder | Exercises Charter authority through the Founder; approves new departments; breaks ties | 00-foundations, GOVERNANCE.md | Decision Log, Department Registry, Audit Log | — |
 | Philosophy & Human Understanding | Develops, tests, and refines the ideas that underpin every project across the Studio | 01-philosophy, 14-evidence-and-research | Open Questions Log, Research Log, Evidence Standards Index | Office of the Founder |
 | Knowledge & Intelligence | Curates, organises, preserves, and connects the Agency's accumulated knowledge so it remains discoverable, searchable, and useful across decades | 16-knowledge-and-intelligence | Knowledge Base, Glossary, Pattern Library, Case Studies, Lessons Learned | Digital Studio |
 | Founder & Voice | Maintains Ilana's public-facing biography, voice, and body of work | 02-founder | Works Index, Public Statements Registry | Office of the Founder |
