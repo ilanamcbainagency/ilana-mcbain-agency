@@ -1,4 +1,4 @@
-# Governance of the Ilana McBain Digital Studio
+# The Governance of the Ilana McBain Digital Studio
 
 **Version 1.0 — approved and in effect.**
 

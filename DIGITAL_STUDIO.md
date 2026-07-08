@@ -2,7 +2,7 @@
 
 Version 1.0 — approved and in effect. From this point forward, every new document, registry, AI agent, workflow, and project must conform to this architecture unless the Founder formally approves an amendment through the process in CHARTER.md, Article XII. See DIGITAL_STUDIO_BLUEPRINT_v1.0.md for the full reasoning behind this structure and GOVERNANCE_DIAGRAM_v1.0.svg for the one-page canonical diagram.
 
-**Authority:** Approved by Ilana McBain, Founder, under Article XII of CHARTER.md. This document is the current operating specification of the Ilana McBain Digital Studio and may be amended only through the governance process defined by the Charter and GOVERNANCE.md once created.
+**Authority:** Approved by Ilana McBain, Founder, under Article XII of CHARTER.md. This document is the current operating specification of the Ilana McBain Digital Studio and may be amended only through the governance process defined by the Charter and GOVERNANCE.md.
 
 ## What this document is
 
