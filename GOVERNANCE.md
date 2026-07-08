@@ -39,9 +39,11 @@ A department is created only as follows:
 
 Retirement follows the same sequence in reverse: a Decision Log entry proposing retirement and stating the reason, the Founder's direct approval, and the department's contents moving to `15-archive/` with that reasoning preserved. Its folder number is not reassigned.
 
+**Department Charter Amendments.** Once a department exists, amending its charter follows one of two paths. Constitutional amendments — changes to mission, reporting line, owned folders, owned registries, or a merger or split of departments — require the Founder's direct approval and may not be delegated, the same standard as creation and retirement above. Operational amendments — any change that does not alter these constitutional fields — may be approved within the department's own authority.
+
 ## The Decision Log
 
-A Decision Log entry is mandatory whenever CHARTER.md or DIGITAL_STUDIO.md requires Founder or Office of the Founder sign-off, including: creating or retiring a department, changing the project lifecycle, amending DIGITAL_STUDIO.md, granting or revoking Founder-delegated authority, and commissioning a formal audit.
+A Decision Log entry is mandatory whenever CHARTER.md, DIGITAL_STUDIO.md, or this document requires Founder or Office of the Founder sign-off, including: creating or retiring a department, changing the project lifecycle, amending DIGITAL_STUDIO.md, granting or revoking Founder-delegated authority, and commissioning a formal audit.
 
 Any department may draft a Decision Log entry proposing a decision within its own remit. Only the Office of the Founder may approve an entry that requires Founder or Office sign-off. Entries that do not require such sign-off may be logged by whoever holds the relevant delegated authority.
 
