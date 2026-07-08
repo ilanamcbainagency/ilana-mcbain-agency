@@ -53,6 +53,14 @@ Every entry follows the format defined in `templates/decision-log-entry-template
 
 The Department Registry (`00-foundations/decision-log/department-registry.md`) is the authoritative list of every department that currently exists, per DIGITAL_STUDIO.md's Registry Directory. A department is entered into the Registry only after its creating Decision Log entry is approved, and its entry is updated only by a further Decision Log entry. The Registry follows the canonical format defined in `templates/registry-template.md` and is maintained by the Office of the Founder.
 
+## Template Governance
+
+A template is an Institutional Standard. Its purpose is to standardise structure across future constitutional, institutional, and operational records, so they remain consistent and comparable across decades. A template records policy. It does not create it.
+
+A template must never create governance, create authority, create escalation rules, create constitutional policy, or create operational policy. If drafting a template appears to require a new governance rule, authority rule, institutional classification, or constitutional distinction, that is evidence the governing documents are incomplete — not evidence the template should supply what is missing. The governing documents are amended first; the template then references what they establish.
+
+A template's constitutional structure — the fields and sections it requires every future instance to contain — may be amended only with the Founder's direct approval, and may not be delegated, the same standard applied to a department charter's constitutional fields. Operational refinements to a template — wording, formatting, or clarity changes that do not alter what it requires future instances to contain — may be approved within Founder-delegated authority over Studio operations.
+
 ## The Audit Log & Audit Process
 
 The Steward may recommend that a formal audit be commissioned. It may not commission one itself. Only the Founder, or a role holding Founder-delegated authority specifically covering audits, may commission a formal audit.
