@@ -39,7 +39,45 @@ A department is created only as follows:
 
 Retirement follows the same sequence in reverse: a Decision Log entry proposing retirement and stating the reason, the Founder's direct approval, and the department's contents moving to `15-archive/` with that reasoning preserved. Its folder number is not reassigned.
 
-**Department Charter Amendments.** Once a department exists, amending its charter follows one of two paths. Constitutional amendments — changes to mission, reporting line, owned folders, owned registries, or a merger or split of departments — require the Founder's direct approval and may not be delegated, the same standard as creation and retirement above. Operational amendments — any change that does not alter these constitutional fields — may be approved within the department's own authority.
+## Department Charter Governance
+
+A Department Charter contains two categories of information, and the difference between them follows from what each kind of information actually is, not from an arbitrary list.
+
+Constitutional fields define a department's enduring identity, authority, structure and institutional relationships. Changing one changes the constitutional identity of the department itself. These fields may be amended only through the Founder's direct approval, and may not be delegated — the same standard applied to a department's creation and retirement.
+
+Operational fields define how a department currently chooses to perform the work its constitutional identity establishes. Changing an operational field changes only how the department presently works, not what it is. These fields may be approved within the department's own authority, or under Founder-delegated authority over Studio operations, without a Decision Log entry for each change.
+
+When a new field is added to the Department Charter architecture, this principle determines its classification, not precedent or convenience: does changing it change what the department is, or only how it presently works? The former is constitutional. The latter is operational.
+
+**Constitutional fields — Founder-direct approval, non-delegable:**
+- Department name
+- Mission
+- Folders owned (see Folder Governance below)
+- Registries maintained
+- Operational Coordination — despite its name, this is constitutional, not operational: it states whether a department's work sits close to the Office of the Founder's own foundational and sensitive concerns, or within the Studio's general operating framework. That is a structural fact about the department's institutional relationships, not a description of its day-to-day working method.
+- Merger or split of the department
+
+**Operational fields — the department's own authority, or Founder-delegated authority:**
+- Knowledge Dependencies
+- Core Services
+- Receives Services From
+- Operational Notes
+
+**Fixed, identical across every charter, not a per-department choice:** Constitutionally Governed By; Governance References.
+
+**Historical record, not subject to amendment once recorded:** Provenance.
+
+### Folder Governance
+
+A department's folder number, or numbers, is reserved at the moment DIGITAL_STUDIO.md's Department Directory names it, not assigned fresh at the moment of creation. Creation activates a reservation already made; it does not draw the next raw sequential integer. This is why departments may be created in any order without needing to match the ascending order of their eventual folder numbers.
+
+A department may be reserved more than one folder number as part of its original constitutional identity. All such folders are activated together at creation, not granted one at a time as separate governance events.
+
+A department created with a single folder may later be granted an additional one, if its work genuinely grows to require it. This is not an operational matter — it follows the same process as creation itself: a Decision Log entry, the Founder's direct approval, and assignment of a number not already reserved by any other department.
+
+A department may be constitutionally exempted from owning any numbered folder at all, where its function is explicitly horizontal rather than territorial. This exemption must be stated explicitly and does not apply by default to any future department.
+
+Folder ownership may be nested. A subfolder within a department's own folder may be independently owned by a different department. Both departments' charters record their actual ownership precisely; a parent folder's owner does not thereby own everything nested within it.
 
 ## The Decision Log
 

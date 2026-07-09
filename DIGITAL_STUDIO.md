@@ -40,7 +40,7 @@ One agent sits outside the department directory below and outside the governance
 
 ## Department directory
 
-| Department | Mission | Folders owned | Registries maintained | Reports to |
+| Department | Mission | Folders owned | Registries maintained | Operational Coordination |
 |---|---|---|---|---|
 | Office of the Founder | Exercises Charter authority through the Founder; approves new departments; breaks ties | 00-foundations, GOVERNANCE.md | Decision Log, Department Registry, Audit Log | — |
 | Philosophy & Human Understanding | Develops, tests, and refines the ideas that underpin every project across the Studio | 01-philosophy, 14-evidence-and-research | Open Questions Log, Research Log, Evidence Standards Index | Office of the Founder |
