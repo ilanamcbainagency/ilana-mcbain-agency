@@ -7,4 +7,16 @@
 
 ---
 
-*No departments have been created yet. This registry is initialized empty, awaiting the first Decision Log entry approving a department's creation.*
+## Entries
+
+### 1. Philosophy & Human Understanding
+
+- **Registry name:** Department Registry
+- **Owning department:** Philosophy & Human Understanding
+- **Entry ID:** 01-philosophy
+- **Entry name:** Philosophy & Human Understanding
+- **Status:** Active
+- **Date added:** 9th July 2026
+- **Date retired:** —
+- **Archive Index reference:** —
+- **Decision Log entry reference:** 00-foundations/decision-log/2026-07-09-philosophy-department-created.md

@@ -20,8 +20,8 @@
   This department is created so that the Studio can change its mind on the record.
 
 - **Required approval authority:** Founder-direct — department creation may not be delegated, per GOVERNANCE.md's Department Lifecycle Governance.
-- **Approved by:** *(pending)*
-- **Date approved:** *(pending)*
-- **Status:** *(pending)*
+- **Approved by:** Ilana McBain, Founder
+- **Date approved:** 9th July 2026
+- **Status:** Approved
 - **Supersedes entry:** None.
 - **Superseded by entry:** None.
